@@ -1,0 +1,30 @@
+{
+    "name": "darwin-8/Avataaar",
+    "description": "php package for getavataaars",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dmitry-neposidyaka",
+            "email": "dmitry.neposidyaka@uadevelopers.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Avataaar\\": "src/",
+            "Vendor\\Namespace\\": "darwin-8"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Avataaar\\": "src/",
+            "Vendor\\Namespace\\": "darwin-8"
+        }
+    }
+}
