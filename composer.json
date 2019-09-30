@@ -3,6 +3,7 @@
     "description": "php package for getavataaars",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "dmitry-neposidyaka",
