@@ -1,5 +1,6 @@
 {
     "name": "darwin-8/avataaar",
+    "version": "1.0.0",
     "description": "php package for getavataaars",
     "type": "library",
     "license": "MIT",
